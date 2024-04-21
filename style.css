@@ -1,0 +1,17 @@
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+span {
+  font-size: 11px;
+}
+
+p > a:first-of-type {
+  font-size: 20px;
+}
+
+body {
+  overflow: hidden;
+}
