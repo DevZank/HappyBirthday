@@ -6,7 +6,7 @@ https://github.com/DevZank/HappyBirthday/assets/111926496/888da119-d1a4-452b-b03
 
 ## Link no Vercel
 
-<a href="[https://relogio-fundo-ambientado.vercel.app](https://happy-birthday-rho-ecru.vercel.app)"> Clique Aqui </a>
+<a href="https://happy-birthday-rho-ecru.vercel.app"> Clique Aqui </a>
 
 ## Tecnologias
 
